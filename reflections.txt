@@ -1,0 +1,7 @@
+text of reflections
+
+Version Control. Necessary to track changes and useful for finding where bugs are introduced.
+
+Git is useful. Noticeable learning curve, but I hear it's worth it.
+
+Initializing the repository creates metadata necessary for a git repo.
